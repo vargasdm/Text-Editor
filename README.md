@@ -83,7 +83,7 @@ This application can be used to create notes or code snippets with or without an
 
 When the opens the application, they are presented with a homepage that displays navigation bar with an install button. In the body of the application there is a text editor where the user can create notes and code snippets for later use. When the user clicks the install button they are prompted and asked if they would like to install the application. When the user confirms the application is installed, and the application is opened locally on thier device. A shortcut is also created on the user's desktop for easy access. With the installed application the user is able to fully use the application and retrieve notes that they have made using the application, even when they are offline. To unistall the application, you can go to the control panel on your device and uninstall it like any other application.
 
-The deployed Heroku application can be view at: https://guarded-forest-85262.herokuapp.com/
+The deployed Heroku application can be view at: https://jatechallenge.herokuapp.com/
 
 ## Credits
 
